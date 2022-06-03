@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "tcyang2022ShootingGame"
+rootProject.name = "v1"
 include ':app'
